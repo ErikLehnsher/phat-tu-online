@@ -1,0 +1,1074 @@
+{
+ "sprites": {
+  "laym-front-stand": {
+   "w": 295,
+   "h": 760,
+   "f": 0.007133
+  },
+  "laym-front-step-l": {
+   "w": 307,
+   "h": 760,
+   "f": 0.008324
+  },
+  "laym-front-step-r": {
+   "w": 301,
+   "h": 760,
+   "f": 0.008364
+  },
+  "laym-front-sit": {
+   "w": 591,
+   "h": 760,
+   "f": 0.005669
+  },
+  "laym-front-pray": {
+   "w": 578,
+   "h": 760,
+   "f": 0.005579
+  },
+  "laym-front-mo": {
+   "w": 539,
+   "h": 760,
+   "f": 0.005607
+  },
+  "laym-front-lay1": {
+   "w": 346,
+   "h": 760,
+   "f": 0.005607
+  },
+  "laym-front-lay2": {
+   "w": 528,
+   "h": 760,
+   "f": 0.00489
+  },
+  "laym-front-lay3": {
+   "w": 760,
+   "h": 631,
+   "f": 0.00412
+  },
+  "laym-front-incense": {
+   "w": 368,
+   "h": 760,
+   "f": 0.005624
+  },
+  "laym-front-kneel-mid": {
+   "w": 350,
+   "h": 760,
+   "f": 0.00548
+  },
+  "laym-back-stand": {
+   "w": 303,
+   "h": 760,
+   "f": 0.007743
+  },
+  "laym-back-step-l": {
+   "w": 314,
+   "h": 760,
+   "f": 0.007799
+  },
+  "laym-back-step-r": {
+   "w": 305,
+   "h": 760,
+   "f": 0.007843
+  },
+  "laym-back-sit": {
+   "w": 548,
+   "h": 760,
+   "f": 0.005071
+  },
+  "laym-back-pray": {
+   "w": 590,
+   "h": 760,
+   "f": 0.004886
+  },
+  "laym-back-mo": {
+   "w": 531,
+   "h": 760,
+   "f": 0.004974
+  },
+  "laym-back-lay1": {
+   "w": 367,
+   "h": 760,
+   "f": 0.005214
+  },
+  "laym-back-lay2": {
+   "w": 439,
+   "h": 760,
+   "f": 0.004877
+  },
+  "laym-back-lay3": {
+   "w": 524,
+   "h": 760,
+   "f": 0.004763
+  },
+  "laym-back-incense": {
+   "w": 302,
+   "h": 760,
+   "f": 0.005433
+  },
+  "laym-back-kneel-mid": {
+   "w": 367,
+   "h": 760,
+   "f": 0.004995
+  },
+  "layf-front-stand": {
+   "w": 286,
+   "h": 760,
+   "f": 0.008785
+  },
+  "layf-front-step-l": {
+   "w": 309,
+   "h": 760,
+   "f": 0.008871
+  },
+  "layf-front-step-r": {
+   "w": 296,
+   "h": 760,
+   "f": 0.009009
+  },
+  "layf-front-sit": {
+   "w": 595,
+   "h": 760,
+   "f": 0.006252
+  },
+  "layf-front-pray": {
+   "w": 583,
+   "h": 760,
+   "f": 0.006201
+  },
+  "layf-front-mo": {
+   "w": 604,
+   "h": 760,
+   "f": 0.006137
+  },
+  "layf-front-lay3": {
+   "w": 647,
+   "h": 760,
+   "f": 0.005428
+  },
+  "layf-back-stand": {
+   "w": 313,
+   "h": 760,
+   "f": 0.008007
+  },
+  "layf-back-step-l": {
+   "w": 320,
+   "h": 760,
+   "f": 0.00797
+  },
+  "layf-back-step-r": {
+   "w": 303,
+   "h": 760,
+   "f": 0.007939
+  },
+  "layf-back-sit": {
+   "w": 571,
+   "h": 760,
+   "f": 0.005544
+  },
+  "layf-back-pray": {
+   "w": 568,
+   "h": 760,
+   "f": 0.006054
+  },
+  "layf-back-mo": {
+   "w": 560,
+   "h": 760,
+   "f": 0.005288
+  },
+  "layf-back-lay3": {
+   "w": 460,
+   "h": 760,
+   "f": 0.005979
+  },
+  "nun-front-stand": {
+   "w": 305,
+   "h": 760,
+   "f": 0.009724
+  },
+  "nun-front-step-l": {
+   "w": 340,
+   "h": 760,
+   "f": 0.009683
+  },
+  "nun-front-step-r": {
+   "w": 358,
+   "h": 760,
+   "f": 0.009563
+  },
+  "nun-front-sit": {
+   "w": 623,
+   "h": 760,
+   "f": 0.006646
+  },
+  "nun-front-pray": {
+   "w": 603,
+   "h": 760,
+   "f": 0.006749
+  },
+  "nun-front-mo": {
+   "w": 609,
+   "h": 760,
+   "f": 0.006945
+  },
+  "nun-front-lay3": {
+   "w": 682,
+   "h": 760,
+   "f": 0.005985
+  },
+  "nun-back-stand": {
+   "w": 317,
+   "h": 760,
+   "f": 0.007959
+  },
+  "nun-back-step-l": {
+   "w": 337,
+   "h": 760,
+   "f": 0.009078
+  },
+  "nun-back-step-r": {
+   "w": 320,
+   "h": 760,
+   "f": 0.009092
+  },
+  "nun-back-sit": {
+   "w": 644,
+   "h": 760,
+   "f": 0.006145
+  },
+  "nun-back-pray": {
+   "w": 588,
+   "h": 760,
+   "f": 0.006454
+  },
+  "nun-back-mo": {
+   "w": 577,
+   "h": 760,
+   "f": 0.006564
+  },
+  "nun-back-lay3": {
+   "w": 535,
+   "h": 760,
+   "f": 0.006524
+  },
+  "monk-front-stand": {
+   "w": 220,
+   "h": 760,
+   "f": 0.01001
+  },
+  "monk-front-step-l": {
+   "w": 266,
+   "h": 760,
+   "f": 0.009976
+  },
+  "monk-front-step-r": {
+   "w": 259,
+   "h": 760,
+   "f": 0.010211
+  },
+  "monk-front-sit": {
+   "w": 588,
+   "h": 760,
+   "f": 0.006628
+  },
+  "monk-front-pray": {
+   "w": 595,
+   "h": 760,
+   "f": 0.006595
+  },
+  "monk-front-mo": {
+   "w": 581,
+   "h": 760,
+   "f": 0.006562
+  },
+  "monk-front-lay3": {
+   "w": 529,
+   "h": 760,
+   "f": 0.005864
+  },
+  "monk-back-stand": {
+   "w": 265,
+   "h": 760,
+   "f": 0.007963
+  },
+  "monk-back-step-l": {
+   "w": 263,
+   "h": 760,
+   "f": 0.008202
+  },
+  "monk-back-step-r": {
+   "w": 272,
+   "h": 760,
+   "f": 0.009186
+  },
+  "monk-back-sit": {
+   "w": 575,
+   "h": 760,
+   "f": 0.005883
+  },
+  "monk-back-pray": {
+   "w": 543,
+   "h": 760,
+   "f": 0.006104
+  },
+  "monk-back-mo": {
+   "w": 646,
+   "h": 760,
+   "f": 0.005245
+  },
+  "monk-back-lay3": {
+   "w": 386,
+   "h": 760,
+   "f": 0.006234
+  },
+  "casualm-front-stand": {
+   "w": 233,
+   "h": 760,
+   "f": 0.008355
+  },
+  "casualm-front-step-l": {
+   "w": 236,
+   "h": 760,
+   "f": 0.008371
+  },
+  "casualm-front-step-r": {
+   "w": 243,
+   "h": 760,
+   "f": 0.008276
+  },
+  "casualm-front-sit": {
+   "w": 543,
+   "h": 760,
+   "f": 0.005746
+  },
+  "casualm-front-pray": {
+   "w": 508,
+   "h": 760,
+   "f": 0.005788
+  },
+  "casualm-front-mo": {
+   "w": 521,
+   "h": 760,
+   "f": 0.005788
+  },
+  "casualm-front-lay3": {
+   "w": 609,
+   "h": 760,
+   "f": 0.004377
+  },
+  "casualm-back-stand": {
+   "w": 238,
+   "h": 760,
+   "f": 0.006865
+  },
+  "casualm-back-step-l": {
+   "w": 255,
+   "h": 760,
+   "f": 0.007798
+  },
+  "casualm-back-step-r": {
+   "w": 255,
+   "h": 760,
+   "f": 0.007969
+  },
+  "casualm-back-sit": {
+   "w": 570,
+   "h": 760,
+   "f": 0.00445
+  },
+  "casualm-back-pray": {
+   "w": 545,
+   "h": 760,
+   "f": 0.005095
+  },
+  "casualm-back-mo": {
+   "w": 599,
+   "h": 760,
+   "f": 0.004428
+  },
+  "casualm-back-lay3": {
+   "w": 526,
+   "h": 760,
+   "f": 0.004797
+  },
+  "casualf-front-stand": {
+   "w": 213,
+   "h": 760,
+   "f": 0.00684
+  },
+  "casualf-front-step-l": {
+   "w": 234,
+   "h": 760,
+   "f": 0.007014
+  },
+  "casualf-front-step-r": {
+   "w": 235,
+   "h": 760,
+   "f": 0.006864
+  },
+  "casualf-front-sit": {
+   "w": 577,
+   "h": 760,
+   "f": 0.004901
+  },
+  "casualf-front-pray": {
+   "w": 539,
+   "h": 760,
+   "f": 0.004782
+  },
+  "casualf-front-mo": {
+   "w": 524,
+   "h": 760,
+   "f": 0.004833
+  },
+  "casualf-front-lay3": {
+   "w": 630,
+   "h": 760,
+   "f": 0.003641
+  },
+  "casualf-back-stand": {
+   "w": 230,
+   "h": 760,
+   "f": 0.006435
+  },
+  "casualf-back-step-l": {
+   "w": 257,
+   "h": 760,
+   "f": 0.006542
+  },
+  "casualf-back-step-r": {
+   "w": 261,
+   "h": 760,
+   "f": 0.006489
+  },
+  "casualf-back-sit": {
+   "w": 513,
+   "h": 760,
+   "f": 0.004524
+  },
+  "casualf-back-pray": {
+   "w": 496,
+   "h": 760,
+   "f": 0.004531
+  },
+  "casualf-back-mo": {
+   "w": 504,
+   "h": 760,
+   "f": 0.004255
+  },
+  "casualf-back-lay3": {
+   "w": 330,
+   "h": 760,
+   "f": 0.004594
+  },
+  "elder-front-stand": {
+   "w": 250,
+   "h": 760,
+   "f": 0.006539
+  },
+  "elder-front-step-l": {
+   "w": 276,
+   "h": 760,
+   "f": 0.007411
+  },
+  "elder-front-step-r": {
+   "w": 260,
+   "h": 760,
+   "f": 0.00753
+  },
+  "elder-front-sit": {
+   "w": 507,
+   "h": 760,
+   "f": 0.00524
+  },
+  "elder-front-pray": {
+   "w": 572,
+   "h": 760,
+   "f": 0.005088
+  },
+  "elder-front-mo": {
+   "w": 502,
+   "h": 760,
+   "f": 0.005265
+  },
+  "elder-front-lay3": {
+   "w": 631,
+   "h": 760,
+   "f": 0.004129
+  },
+  "elder-back-stand": {
+   "w": 254,
+   "h": 760,
+   "f": 0.006621
+  },
+  "elder-back-step-l": {
+   "w": 280,
+   "h": 760,
+   "f": 0.007715
+  },
+  "elder-back-step-r": {
+   "w": 303,
+   "h": 760,
+   "f": 0.006799
+  },
+  "elder-back-sit": {
+   "w": 570,
+   "h": 760,
+   "f": 0.00495
+  },
+  "elder-back-pray": {
+   "w": 541,
+   "h": 760,
+   "f": 0.004996
+  },
+  "elder-back-mo": {
+   "w": 521,
+   "h": 760,
+   "f": 0.004988
+  },
+  "elder-back-lay3": {
+   "w": 445,
+   "h": 760,
+   "f": 0.005146
+  },
+  "kid-front-stand": {
+   "w": 239,
+   "h": 760,
+   "f": 0.005471
+  },
+  "kid-front-step-l": {
+   "w": 250,
+   "h": 760,
+   "f": 0.00643
+  },
+  "kid-front-step-r": {
+   "w": 258,
+   "h": 760,
+   "f": 0.006361
+  },
+  "kid-front-sit": {
+   "w": 474,
+   "h": 760,
+   "f": 0.004562
+  },
+  "kid-front-pray": {
+   "w": 472,
+   "h": 760,
+   "f": 0.004602
+  },
+  "kid-front-mo": {
+   "w": 465,
+   "h": 760,
+   "f": 0.004673
+  },
+  "kid-front-lay3": {
+   "w": 739,
+   "h": 760,
+   "f": 0.003139
+  },
+  "kid-back-stand": {
+   "w": 264,
+   "h": 760,
+   "f": 0.006101
+  },
+  "kid-back-step-l": {
+   "w": 257,
+   "h": 760,
+   "f": 0.006197
+  },
+  "kid-back-step-r": {
+   "w": 254,
+   "h": 760,
+   "f": 0.005995
+  },
+  "kid-back-sit": {
+   "w": 531,
+   "h": 760,
+   "f": 0.004383
+  },
+  "kid-back-pray": {
+   "w": 487,
+   "h": 760,
+   "f": 0.004446
+  },
+  "kid-back-mo": {
+   "w": 568,
+   "h": 760,
+   "f": 0.004026
+  },
+  "kid-back-lay3": {
+   "w": 473,
+   "h": 760,
+   "f": 0.004577
+  },
+  "funny-laym-front-stand": {
+   "w": 413,
+   "h": 760,
+   "f": 0.003281
+  },
+  "funny-laym-front-step-l": {
+   "w": 439,
+   "h": 760,
+   "f": 0.003301
+  },
+  "funny-laym-front-step-r": {
+   "w": 442,
+   "h": 760,
+   "f": 0.003301
+  },
+  "funny-laym-front-sit": {
+   "w": 523,
+   "h": 760,
+   "f": 0.003174
+  },
+  "funny-laym-front-pray": {
+   "w": 513,
+   "h": 760,
+   "f": 0.003291
+  },
+  "funny-laym-front-mo": {
+   "w": 477,
+   "h": 760,
+   "f": 0.00326
+  },
+  "funny-laym-front-lay3": {
+   "w": 760,
+   "h": 700,
+   "f": 0.002196
+  },
+  "funny-laym-back-stand": {
+   "w": 390,
+   "h": 760,
+   "f": 0.003562
+  },
+  "funny-laym-back-step-l": {
+   "w": 400,
+   "h": 760,
+   "f": 0.003576
+  },
+  "funny-laym-back-step-r": {
+   "w": 418,
+   "h": 760,
+   "f": 0.003539
+  },
+  "funny-laym-back-sit": {
+   "w": 512,
+   "h": 760,
+   "f": 0.002839
+  },
+  "funny-laym-back-pray": {
+   "w": 499,
+   "h": 760,
+   "f": 0.002752
+  },
+  "funny-laym-back-mo": {
+   "w": 556,
+   "h": 760,
+   "f": 0.002723
+  },
+  "funny-laym-back-lay3": {
+   "w": 622,
+   "h": 760,
+   "f": 0.002307
+  }
+ },
+ "types": {
+  "laym-front": {
+   "stand_head": 231.8798207270636,
+   "seated_head": 292.2085826134987,
+   "stand_h": 1257.029440952696,
+   "seated_h": 1258.9034288553917
+  },
+  "laym-back": {
+   "stand_head": 210.3609462697988,
+   "seated_head": 312.1524066944285,
+   "stand_h": 1237.9866427756963,
+   "seated_h": 1202.912314023425
+  },
+  "layf-front": {
+   "stand_head": 216.5782976480825,
+   "seated_head": 262.0339724414273
+  },
+  "layf-back": {
+   "stand_head": 208.52071058042793,
+   "seated_head": 262.7582966251319
+  },
+  "nun-front": {
+   "stand_head": 196.07685398752525,
+   "seated_head": 229.07064413572252
+  },
+  "nun-back": {
+   "stand_head": 202.19011637559345,
+   "seated_head": 229.33693996501
+  },
+  "monk-front": {
+   "stand_head": 190.0605840708986,
+   "seated_head": 237.40732952716579
+  },
+  "monk-back": {
+   "stand_head": 198.11194014840927,
+   "seated_head": 243.3414350389802
+  },
+  "casualm-front": {
+   "stand_head": 232.14154828058176,
+   "seated_head": 281.648104138923
+  },
+  "casualm-back": {
+   "stand_head": 237.2700601877385,
+   "seated_head": 299.8226369604722
+  },
+  "casualf-front": {
+   "stand_head": 280.66054873812504,
+   "seated_head": 334.3021629005227
+  },
+  "casualf-back": {
+   "stand_head": 246.37652926183696,
+   "seated_head": 337.12625313973683
+  },
+  "elder-front": {
+   "stand_head": 255.13300630674294,
+   "seated_head": 312.6436678858217
+  },
+  "elder-back": {
+   "stand_head": 242.87171714252113,
+   "seated_head": 308.9144037688453
+  },
+  "kid-front": {
+   "stand_head": 288.11778843305547,
+   "seated_head": 330.2558715241496
+  },
+  "kid-back": {
+   "stand_head": 286.41324389615704,
+   "seated_head": 331.75156177492084
+  },
+  "funny-laym-front": {
+   "stand_head": 515.3377380555448,
+   "seated_head": 509.80949680880286
+  },
+  "funny-laym-back": {
+   "stand_head": 470.25192963014155,
+   "seated_head": 585.6890147226841
+  }
+ },
+ "deco": {
+  "door-cam1": {
+   "w": 586,
+   "h": 760
+  },
+  "door-cam2": {
+   "w": 742,
+   "h": 760
+  },
+  "cushion-low": {
+   "w": 760,
+   "h": 542
+  },
+  "cushion-high": {
+   "w": 760,
+   "h": 693
+  },
+  "statue-front": {
+   "w": 535,
+   "h": 760
+  },
+  "statue-back": {
+   "w": 499,
+   "h": 760
+  },
+  "statue-halo": {
+   "w": 756,
+   "h": 760
+  },
+  "altar-table-front": {
+   "w": 760,
+   "h": 455
+  },
+  "altar-table-back": {
+   "w": 760,
+   "h": 461
+  },
+  "prop-mo-idle": {
+   "w": 760,
+   "h": 365
+  },
+  "prop-mo-hit": {
+   "w": 760,
+   "h": 515
+  },
+  "prop-bowl": {
+   "w": 760,
+   "h": 273
+  },
+  "prop-mala": {
+   "w": 551,
+   "h": 760
+  },
+  "prop-incense-unlit": {
+   "w": 760,
+   "h": 431
+  },
+  "prop-incense-lit": {
+   "w": 469,
+   "h": 760
+  },
+  "prop-incense-burnt": {
+   "w": 606,
+   "h": 760
+  },
+  "fx-smoke": {
+   "w": 760,
+   "h": 491
+  },
+  "fx-ripple": {
+   "w": 760,
+   "h": 311
+  },
+  "icon-mo": {
+   "w": 760,
+   "h": 609
+  },
+  "icon-lay": {
+   "w": 650,
+   "h": 760
+  },
+  "icon-incense": {
+   "w": 320,
+   "h": 760
+  },
+  "sign-room": {
+   "w": 760,
+   "h": 372
+  },
+  "deco-lanterns-0": {
+   "w": 415,
+   "h": 431
+  },
+  "deco-lanterns-1": {
+   "w": 179,
+   "h": 350
+  },
+  "deco-lanterns-2": {
+   "w": 103,
+   "h": 241
+  },
+  "deco-cat-0": {
+   "w": 259,
+   "h": 195
+  },
+  "deco-cat-1": {
+   "w": 185,
+   "h": 258
+  },
+  "deco-cat-2": {
+   "w": 319,
+   "h": 239
+  },
+  "deco-cat-3": {
+   "w": 335,
+   "h": 234
+  },
+  "deco-flames-0": {
+   "w": 98,
+   "h": 153
+  },
+  "deco-flames-1": {
+   "w": 76,
+   "h": 181
+  },
+  "deco-flames-2": {
+   "w": 132,
+   "h": 150
+  },
+  "deco-flames-3": {
+   "w": 103,
+   "h": 160
+  },
+  "deco-flames-4": {
+   "w": 104,
+   "h": 160
+  },
+  "deco-petals-0": {
+   "w": 184,
+   "h": 171
+  },
+  "deco-petals-1": {
+   "w": 165,
+   "h": 205
+  },
+  "deco-petals-2": {
+   "w": 182,
+   "h": 172
+  },
+  "deco-petals-3": {
+   "w": 416,
+   "h": 295
+  },
+  "deco-petals-4": {
+   "w": 145,
+   "h": 276
+  },
+  "deco-nature-0": {
+   "w": 179,
+   "h": 128
+  },
+  "deco-nature-1": {
+   "w": 238,
+   "h": 107
+  },
+  "deco-nature-2": {
+   "w": 165,
+   "h": 145
+  },
+  "deco-nature-3": {
+   "w": 209,
+   "h": 125
+  },
+  "deco-nature-4": {
+   "w": 216,
+   "h": 288
+  },
+  "deco-nature-5": {
+   "w": 204,
+   "h": 110
+  },
+  "deco-nature-6": {
+   "w": 167,
+   "h": 226
+  },
+  "deco-nature-7": {
+   "w": 154,
+   "h": 106
+  },
+  "deco-nature-8": {
+   "w": 128,
+   "h": 97
+  },
+  "deco-nature-9": {
+   "w": 164,
+   "h": 86
+  },
+  "deco-plants-0": {
+   "w": 156,
+   "h": 371
+  },
+  "deco-plants-1": {
+   "w": 161,
+   "h": 156
+  },
+  "deco-plants-2": {
+   "w": 138,
+   "h": 181
+  },
+  "deco-plants-3": {
+   "w": 173,
+   "h": 397
+  },
+  "deco-plants-4": {
+   "w": 151,
+   "h": 201
+  },
+  "deco-plants-5": {
+   "w": 127,
+   "h": 215
+  },
+  "deco-altar-goods-0": {
+   "w": 758,
+   "h": 91
+  },
+  "deco-altar-goods-1": {
+   "w": 113,
+   "h": 121
+  },
+  "deco-altar-goods-2": {
+   "w": 309,
+   "h": 43
+  },
+  "deco-altar-goods-3": {
+   "w": 62,
+   "h": 85
+  },
+  "deco-altar-goods-4": {
+   "w": 175,
+   "h": 116
+  },
+  "deco-altar-goods-5": {
+   "w": 192,
+   "h": 98
+  },
+  "deco-altar-goods-6": {
+   "w": 294,
+   "h": 134
+  },
+  "deco-wall-0": {
+   "w": 424,
+   "h": 221
+  },
+  "deco-wall-1": {
+   "w": 269,
+   "h": 185
+  },
+  "deco-wall-2": {
+   "w": 756,
+   "h": 204
+  },
+  "deco-door-area-0": {
+   "w": 428,
+   "h": 176
+  },
+  "deco-door-area-1": {
+   "w": 166,
+   "h": 441
+  },
+  "deco-door-area-2": {
+   "w": 146,
+   "h": 210
+  },
+  "deco-door-area-3": {
+   "w": 304,
+   "h": 125
+  },
+  "deco-light-0": {
+   "w": 55,
+   "h": 106
+  },
+  "deco-light-1": {
+   "w": 68,
+   "h": 112
+  },
+  "deco-light-2": {
+   "w": 83,
+   "h": 119
+  },
+  "deco-light-3": {
+   "w": 102,
+   "h": 133
+  },
+  "deco-light-4": {
+   "w": 117,
+   "h": 145
+  },
+  "deco-light-5": {
+   "w": 140,
+   "h": 167
+  },
+  "deco-light-6": {
+   "w": 130,
+   "h": 37
+  },
+  "deco-light-7": {
+   "w": 129,
+   "h": 124
+  },
+  "deco-light-8": {
+   "w": 218,
+   "h": 49
+  },
+  "deco-light-9": {
+   "w": 285,
+   "h": 64
+  },
+  "deco-light-10": {
+   "w": 557,
+   "h": 70
+  }
+ }
+}
